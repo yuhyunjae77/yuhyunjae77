@@ -17,3 +17,9 @@
   <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C7892.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" />&nbsp
+</div>
