@@ -21,5 +21,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=xampp&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/phpMyAdmin-6C7892.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/PHPStorm-9B1EDF.svg?style=for-the-badge&logo=phpstorm&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/WebStorm-000000.svg?style=for-the-badge&logo=webstorm&logoColor=white" />&nbsp
 </div>
